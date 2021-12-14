@@ -1,0 +1,87 @@
+{
+  "count": 100,
+  "next": null,
+  "previous": null,
+  "results": [
+      {
+          "name": "bulbasaur",
+          "url": "/api/v2/pokemon/1/"
+      },
+      {
+          "name": "ivysaur",
+          "url": "/api/v2/pokemon/2/"
+      },
+      {
+          "name": "venusaur",
+          "url": "/api/v2/pokemon/3/"
+      },
+      {
+          "name": "charmander",
+          "url": "/api/v2/pokemon/4/"
+      },
+      {
+          "name": "charmeleon",
+          "url": "/api/v2/pokemon/5/"
+      },
+      {
+          "name": "charizard",
+          "url": "/api/v2/pokemon/6/"
+      },
+      {
+          "name": "squirtle",
+          "url": "/api/v2/pokemon/7/"
+      },
+      {
+          "name": "wartortle",
+          "url": "/api/v2/pokemon/8/"
+      },
+      {
+          "name": "blastoise",
+          "url": "/api/v2/pokemon/9/"
+      },
+      {
+          "name": "caterpie",
+          "url": "/api/v2/pokemon/10/"
+      },
+      {
+          "name": "metapod",
+          "url": "/api/v2/pokemon/11/"
+      },
+      {
+          "name": "butterfree",
+          "url": "/api/v2/pokemon/12/"
+      },
+      {
+          "name": "weedle",
+          "url": "/api/v2/pokemon/13/"
+      },
+      {
+          "name": "kakuna",
+          "url": "/api/v2/pokemon/14/"
+      },
+      {
+          "name": "beedrill",
+          "url": "/api/v2/pokemon/15/"
+      },
+      {
+          "name": "pidgey",
+          "url": "/api/v2/pokemon/16/"
+      },
+      {
+          "name": "pidgeotto",
+          "url": "/api/v2/pokemon/17/"
+      },
+      {
+          "name": "pidgeot",
+          "url": "/api/v2/pokemon/18/"
+      },
+      {
+          "name": "rattata",
+          "url": "/api/v2/pokemon/19/"
+      },
+      {
+          "name": "raticate",
+          "url": "/api/v2/pokemon/20/"
+      }
+  ]
+}
